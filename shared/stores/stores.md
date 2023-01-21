@@ -1,0 +1,2 @@
+# Stores
+Global state stores
