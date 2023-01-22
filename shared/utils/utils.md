@@ -1,2 +1,0 @@
-# Utils
-Shared utility functions
